@@ -14,7 +14,7 @@
         <div class="flex mt-2 md:mt-0 justify-between md:justify-start">
             <div class="flex flex-col md:ml-5">
                 <a
-                    :href="`https://gdchallengelist.com/challenges/${demon.position}`"
+                    :href="`https://pointercrate.com/api/v1/demons/?limit=100`"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
