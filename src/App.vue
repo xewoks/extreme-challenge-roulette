@@ -20,9 +20,6 @@
                             <input type="checkbox" v-model="selectedLists.extended" />
                             Extended list
                         </label>
-                        <label>
-                            <input type="checkbox" v-model="selectedLists.legacy" />
-                            Legacy list
                         </label>
                     </div>
                     <div class="flex">
